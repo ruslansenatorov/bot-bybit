@@ -1,6 +1,6 @@
 # Contributing guidelines
 
-## Before contributing
+## Before contributing 
 
 Welcome to [SenatorovAI](https://github.com/SenatorovAI)! Before submitting your pull requests, please ensure that you __read the whole guidelines__. If you have any doubts about the contributing guide, please feel free to [state it clearly in an issue](https://t.me/c/1937296927/3602/25534).
 
